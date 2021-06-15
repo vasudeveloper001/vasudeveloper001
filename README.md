@@ -20,11 +20,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [27. Conclusion - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=TRJJTiQ_KYQ)
-- [26. Interface vs Abstract Class - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=L6H4IU4x8wU)
-- [25. Interface Part 2 - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=m5M791S7p4s)
-- [24. Interfaces in Java - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=CIBdrErOT1A)
-- [23. Refactoring - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=UYfoQZ1QrQA)
+- [Making a Portfolio Website](https://ibcoder.hashnode.dev/making-a-portfolio-website)
+- [Intro to Web Development Series](https://ibcoder.hashnode.dev/intro-to-web-development-series)
+- [What is Object-Oriented Programming and why you should learn it?](https://ibcoder.hashnode.dev/what-is-object-oriented-programming-and-why-you-should-learn-it)
+- [How to study smart in the most effective manner?](https://ibcoder.hashnode.dev/how-to-study-smart-in-the-most-effective-manner)
+- [Variables, Constants, & Data Types in Java](https://ibcoder.hashnode.dev/variables-constants-data-types-in-java)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
