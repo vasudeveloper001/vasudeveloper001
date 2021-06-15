@@ -23,9 +23,7 @@
 [<img align="center" alt="IBCoder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="IBCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-## <br />
-
----
+<hr />
 
 ### Languages and Tools:
 
@@ -46,9 +44,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
----
+<hr />
 
 ### Latest Full Course Videos
 
@@ -75,6 +71,7 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Making a Portfolio Website](https://ibcoder.hashnode.dev/making-a-portfolio-website)
 - [Intro to Web Development Series](https://ibcoder.hashnode.dev/intro-to-web-development-series)
 - [What is Object-Oriented Programming and why you should learn it?](https://ibcoder.hashnode.dev/what-is-object-oriented-programming-and-why-you-should-learn-it)
@@ -84,10 +81,9 @@
 
 ---
 
-[![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudeveloper001)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
 
-<br />
-<br />
+[![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudeveloper001)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/saurabh-srivastava-b62330109/
 [youtube]: https://www.youtube.com/channel/UCHBONOEjtMti0oRA_qWADYA
