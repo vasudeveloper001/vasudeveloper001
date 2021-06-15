@@ -51,7 +51,6 @@
 ### Latest Full Course Videos
 
 <!-- YOUTUBE-FULL:START -->
-
 - [Learn Object Oriented Programming with JAVA in ONE (1) Video | JAVA OOP FULL COURSE](https://www.youtube.com/watch?v=GHbxyzz4-as)
 <!-- YOUTUBE-FULL:END -->
 
