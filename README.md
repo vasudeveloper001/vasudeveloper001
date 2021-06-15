@@ -7,19 +7,21 @@
  <h3 align="center">Hate Intellectual Authoritarianism</h3>
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/saudev001?color=%231DA1F2&label=Follow%20%40saudev001&style=flat-square)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCHBONOEjtMti0oRA_qWADYA?color=%23FF0000&label=YouTube%20Channel%20Views&style=flat-square)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHBONOEjtMti0oRA_qWADYA?color=FF0000&label=YouTube%20Subscribers&style=flat-square)
-![Website](https://img.shields.io/website?label=Hashnode%20Blogs&up_message=read&url=https%3A%2F%2Fibcoder.hashnode.dev%2F)
-
----
+<p align="center">
+    <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/saudev001?color=%231DA1F2&label=Follow%20%40saudev001&style=flat-square" />
+    <img align="center" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCHBONOEjtMti0oRA_qWADYA?color=%23FF0000&label=YouTube%20Channel%20Views&style=flat-square" />
+    <img align="center" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCHBONOEjtMti0oRA_qWADYA?color=FF0000&label=YouTube%20Subscribers&style=flat-square" />
+    <img align="center" alt="Hashnode Blog" src="https://img.shields.io/website?label=Hashnode%20Blogs&up_message=read&url=https%3A%2F%2Fibcoder.hashnode.dev%2F" />
+</p>
+<br />
+<hr />
 
 ### Connect with me:
 
-[<img align="left" alt="IBCoder | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="IBCoder | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="IBCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="IBCoder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="IBCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ## <br />
 
