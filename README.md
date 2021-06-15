@@ -3,6 +3,23 @@
 <br />
 <br />
 
+---
+
+### Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+### Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+<br />
+
 [linkedin]: https://www.linkedin.com/in/saurabh-srivastava-b62330109/
 [youtube]: https://www.youtube.com/channel/UCHBONOEjtMti0oRA_qWADYA
 [twitter]: https://www.twitter.com/saudev001
