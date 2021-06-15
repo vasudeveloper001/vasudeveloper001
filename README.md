@@ -17,7 +17,6 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [27. Conclusion - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=TRJJTiQ_KYQ)
 - [26. Interface vs Abstract Class - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=L6H4IU4x8wU)
 - [25. Interface Part 2 - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=m5M791S7p4s)
