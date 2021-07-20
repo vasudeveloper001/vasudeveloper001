@@ -16,7 +16,7 @@
 <br />
 <hr />
 
-### Latest Project: ![StoreJS [MERN - Redux, Styled-Components, Framer Motion, SendGrid, Vercel, Heroku, etc. - Working on Checkout Process/Animation]](https://store-js.vercel.app)
+### Latest Project: [StoreJS [MERN - Redux, Styled-Components, Framer Motion, SendGrid, Vercel, Heroku, etc. - Working on Checkout Process/Animation]](https://store-js.vercel.app)
 ![image](https://user-images.githubusercontent.com/56103269/126382814-c352e9eb-ee87-453c-8520-61bbc7048fc4.png)
 
 
