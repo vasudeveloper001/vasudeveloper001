@@ -2,9 +2,9 @@
 
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/56103269?v=4" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Frontend Developer | Coding YouTuber</h2>
+ <h2 align="center">Frontend Engineering/Development | JavaScript | Node | MongoDB | Express | Firebase | Payment Integrations | MERN Stack</h2>
  <p align="center">Life long learner. Interested in programming, novels, philosophy, anime, and manga. </p>
- <h3 align="center">Hate Intellectual Authoritarianism</h3>
+ <h3 align="center">Hate Intellectual Authoritarianism | [FOR HIRE]</h3>
 </p>
 
 <p align="center">
