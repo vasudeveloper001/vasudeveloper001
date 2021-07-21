@@ -48,13 +48,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<hr />
-
-### Latest Full Course Videos
-
-<!-- YOUTUBE-FULL:START -->
-- [Learn Object Oriented Programming with JAVA in ONE (1) Video | JAVA OOP FULL COURSE](https://www.youtube.com/watch?v=GHbxyzz4-as)
-<!-- YOUTUBE-FULL:END -->
+<hr /
 
 ---
 
