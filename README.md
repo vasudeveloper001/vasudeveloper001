@@ -84,7 +84,7 @@
 
 ### GitHub Stats
 
-[![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudeveloper001)](https://github.com/anuraghazra/github-readme-stats)
+[![Saurabh's GitHub stats](https://github-readme-stats-liart-beta.vercel.app/api?username=vasudeveloper001)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/saurabh-srivastava-b62330109/
 [youtube]: https://www.youtube.com/channel/UCHBONOEjtMti0oRA_qWADYA
