@@ -61,11 +61,8 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [27. Conclusion - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=TRJJTiQ_KYQ)
-- [26. Interface vs Abstract Class - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=L6H4IU4x8wU)
-- [25. Interface Part 2 - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=m5M791S7p4s)
-- [24. Interfaces in Java - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=CIBdrErOT1A)
-- [23. Refactoring - Object-Oriented Programming in JAVA](https://www.youtube.com/watch?v=UYfoQZ1QrQA)
+- [freeCodeCamp Survey Form Clone | Responsive HTML & CSS3 Tutorial | Flexbox](https://www.youtube.com/watch?v=p4LypMpJQzs)
+- [Software Developer on WhiteHat Jr. | Whitehat Jr. Controversy](https://www.youtube.com/watch?v=OpqSi4qGpVk)
 <!-- YOUTUBE:END -->
 
 ---
