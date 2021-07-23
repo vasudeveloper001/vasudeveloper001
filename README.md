@@ -55,6 +55,8 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [YT Erasure Chrome Extension Showcase Video - 1](https://www.youtube.com/watch?v=y9l7SNeCFPQ)
+- [YT Erasure Chrome Extension Showcase Video - 2](https://www.youtube.com/watch?v=Wu4VKposTgg)
 - [freeCodeCamp Survey Form Clone | Responsive HTML & CSS3 Tutorial | Flexbox](https://www.youtube.com/watch?v=p4LypMpJQzs)
 - [Software Developer on WhiteHat Jr. | Whitehat Jr. Controversy](https://www.youtube.com/watch?v=OpqSi4qGpVk)
 <!-- YOUTUBE:END -->
