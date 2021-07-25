@@ -16,8 +16,15 @@
 <br />
 <hr />
 
-### Latest Project: [StoreJS [MERN - Redux, Styled-Components, Framer Motion, SendGrid, Vercel, Heroku, etc. - Working on Checkout Process/Animation]](https://store-js.vercel.app)
-![image](https://user-images.githubusercontent.com/56103269/126382814-c352e9eb-ee87-453c-8520-61bbc7048fc4.png)
+### Projects:
+
+**1. [StoreJS](https://store-js.vercel.app):** Work in progress
+ - Live Demo: https://store-js.vercel.app
+ - GitHub Repo: https://github.com/vasudeveloper001/store-ibc
+
+**2. [YT Erasure Chrome Extension]():** Submitted for Review to Google Chrome Extension Platform
+ - Live Video Demo: https://www.youtube.com/watch?v=y9l7SNeCFPQ and https://www.youtube.com/watch?v=Wu4VKposTgg
+ - GitHub Repo: https://github.com/vasudeveloper001/yt-erasure-chrome-extension
 
 
 ### Connect with me:
@@ -60,7 +67,6 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
-<hr />
 
 ---
 
