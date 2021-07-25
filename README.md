@@ -26,6 +26,7 @@
  - Live Video Demo: https://www.youtube.com/watch?v=y9l7SNeCFPQ and https://www.youtube.com/watch?v=Wu4VKposTgg
  - GitHub Repo: https://github.com/vasudeveloper001/yt-erasure-chrome-extension
 
+---
 
 ### Connect with me:
 
