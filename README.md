@@ -90,8 +90,7 @@
 - [Intro to Web Development Series](https://ibcoder.hashnode.dev/intro-to-web-development-series)
 - [What is Object-Oriented Programming and why you should learn it?](https://ibcoder.hashnode.dev/what-is-object-oriented-programming-and-why-you-should-learn-it)
 - [How to study smart in the most effective manner?](https://ibcoder.hashnode.dev/how-to-study-smart-in-the-most-effective-manner)
-- [Variables, Constants, & Data Types in Java](https://ibcoder.hashnode.dev/variables-constants-data-types-in-java)
-- [How Java Program Runs?](https://ibcoder.hashnode.dev/how-java-program-runs)
+- [Installing Multiple Python Version in WSL2](https://ibcoder.hashnode.dev/installing-multiple-python-version-in-wsl2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
