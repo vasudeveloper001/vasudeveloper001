@@ -87,6 +87,7 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why using sort() won't work in React useState()?](https://ibcoder.hashnode.dev/why-using-sort-wont-work-in-react-usestate)
 - [Intro to Web Development Series](https://ibcoder.hashnode.dev/intro-to-web-development-series)
 - [What is Object-Oriented Programming and why you should learn it?](https://ibcoder.hashnode.dev/what-is-object-oriented-programming-and-why-you-should-learn-it)
 - [How to study smart in the most effective manner?](https://ibcoder.hashnode.dev/how-to-study-smart-in-the-most-effective-manner)
