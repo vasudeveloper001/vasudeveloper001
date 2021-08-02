@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [IBCoder Live Stream](https://www.youtube.com/watch?v=7uNWT9rzm-o)
 - [YT Erasure Chrome Extension Showcase Video - 1](https://www.youtube.com/watch?v=y9l7SNeCFPQ)
 - [YT Erasure Chrome Extension Showcase Video - 2](https://www.youtube.com/watch?v=Wu4VKposTgg)
 - [freeCodeCamp Survey Form Clone | Responsive HTML & CSS3 Tutorial | Flexbox](https://www.youtube.com/watch?v=p4LypMpJQzs)
 - [Fizz Buzz and Patterns | Solve Fizz Buzz and Patterns Problems in Java | Java 2021](https://www.youtube.com/watch?v=I33L125IbqQ)
-- [Loops in Java - Java Programming for Beginners [2021]](https://www.youtube.com/watch?v=qCaZfX46BKw)
 <!-- YOUTUBE:END -->
 
 ---
