@@ -22,7 +22,7 @@
  - Live Demo: https://store-js.vercel.app
  - GitHub Repo: https://github.com/vasudeveloper001/store-ibc
 
-**2. [YT Erasure Chrome Extension]():** Submitted for Review to Google Chrome Extension Platform
+**2. [YT Erasure Chrome Extension](https://chrome.google.com/webstore/detail/yt-erasure/jabdodobogpeidplcbdcmndaijnnedmp):** Submitted for Review to Google Chrome Extension Platform
  - Live Video Demo: https://www.youtube.com/watch?v=y9l7SNeCFPQ and https://www.youtube.com/watch?v=Wu4VKposTgg
  - GitHub Repo: https://github.com/vasudeveloper001/yt-erasure-chrome-extension
 
