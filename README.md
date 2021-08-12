@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unacademy Relevel FRONTEND DEVELOPER Interview REVIEW!](https://www.youtube.com/watch?v=lu5ipVsG_w8)
+- [GitHub latest update! PRESS THAT (.) NOW!](https://www.youtube.com/watch?v=b4JS9Y98YIw)
 - [freeCodeCamp - Build a Technical Documentation Page - Live Stream - Part 2](https://www.youtube.com/watch?v=L5JTfR2uwK0)
 - [freeCodeCamp - Build a Technical Documentation Page - Live Stream - Part 1](https://www.youtube.com/watch?v=7uNWT9rzm-o)
 - [YT Erasure Chrome Extension Showcase Video - 1](https://www.youtube.com/watch?v=y9l7SNeCFPQ)
-- [YT Erasure Chrome Extension Showcase Video - 2](https://www.youtube.com/watch?v=Wu4VKposTgg)
-- [freeCodeCamp Survey Form Clone | Responsive HTML & CSS3 Tutorial | Flexbox](https://www.youtube.com/watch?v=p4LypMpJQzs)
 <!-- YOUTUBE:END -->
 
 ---
