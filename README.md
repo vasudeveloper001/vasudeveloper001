@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cash Register App - neogcamp Mark 10](https://www.youtube.com/watch?v=bAwgHqeqNtc)
 - [neogCamp Projects - Building them one by one - Mark 6](https://www.youtube.com/watch?v=6cmeO5xyROg)
 - [neogCamp Projects - Building them one by one](https://www.youtube.com/watch?v=4Dy-kmnpjeg)
 - [Relevel Unacademy Full Review   Frontend Development Test](https://www.youtube.com/watch?v=2jObnoSjn38)
 - [Unacademy Relevel FRONTEND DEVELOPER Interview REVIEW!](https://www.youtube.com/watch?v=lu5ipVsG_w8)
-- [GitHub latest update! PRESS THAT (dot) NOW!](https://www.youtube.com/watch?v=b4JS9Y98YIw)
 <!-- YOUTUBE:END -->
 
 ---
