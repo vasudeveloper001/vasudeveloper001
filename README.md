@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Supabase Live Learning](https://www.youtube.com/watch?v=zYGL6-QLqKw)
 - [Native Base Live Learning](https://www.youtube.com/watch?v=Mm2DhsizBIo)
 - [React Goodbooks Neogcamp Project - Mark 9](https://www.youtube.com/watch?v=R-hC1m-STvQ)
 - [Cash Register App - neogcamp Mark 10](https://www.youtube.com/watch?v=bAwgHqeqNtc)
 - [neogCamp Projects - Building them one by one - Mark 6](https://www.youtube.com/watch?v=6cmeO5xyROg)
-- [neogCamp Projects - Building them one by one](https://www.youtube.com/watch?v=4Dy-kmnpjeg)
 <!-- YOUTUBE:END -->
 
 ---
