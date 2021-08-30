@@ -75,7 +75,7 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Supabase Live Learning](https://www.youtube.com/watch?v=zYGL6-QLqKw)
+- [Lucky Birthday Neogcamp Mark 11](https://www.youtube.com/watch?v=Wegfsnsd55E)
 - [Native Base Live Learning](https://www.youtube.com/watch?v=Mm2DhsizBIo)
 - [React Goodbooks Neogcamp Project - Mark 9](https://www.youtube.com/watch?v=R-hC1m-STvQ)
 - [Cash Register App - neogcamp Mark 10](https://www.youtube.com/watch?v=bAwgHqeqNtc)
