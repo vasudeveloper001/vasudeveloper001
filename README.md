@@ -75,10 +75,10 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Investo Stock App   Neogcamp Mark 14](https://www.youtube.com/watch?v=5uybKJlZBXY)
-- [Fun Triangles [neogcamp Mark 12]](https://www.youtube.com/watch?v=1kPWPeNbg-Q)
+- [Investo Stock with React](https://www.youtube.com/watch?v=5uybKJlZBXY)
+- [Fun Triangles with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=1kPWPeNbg-Q)
 - [Supabase Live Learning](https://www.youtube.com/watch?v=zYGL6-QLqKw)
-- [Lucky Birthday Neogcamp Mark 11](https://www.youtube.com/watch?v=Wegfsnsd55E)
+- [Lucky Birthday with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=Wegfsnsd55E)
 - [Native Base Live Learning](https://www.youtube.com/watch?v=Mm2DhsizBIo)
 <!-- YOUTUBE:END -->
 
