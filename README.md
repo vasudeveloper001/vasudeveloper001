@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Birthday Palindrome in React and JavaScript [USE SAME CODE!]](https://www.youtube.com/watch?v=9H41sZzGHsY)
 - [Investo Stock with React](https://www.youtube.com/watch?v=5uybKJlZBXY)
 - [Fun Triangles with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=1kPWPeNbg-Q)
 - [Supabase Live Learning](https://www.youtube.com/watch?v=zYGL6-QLqKw)
 - [Lucky Birthday with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=Wegfsnsd55E)
-- [Native Base Live Learning](https://www.youtube.com/watch?v=Mm2DhsizBIo)
 <!-- YOUTUBE:END -->
 
 ---
