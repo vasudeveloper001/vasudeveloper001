@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Send Emails Using NodeJS and Sendgrid](https://www.youtube.com/watch?v=UHeiOymWEq8)
 - [Complete Linux Setup for Web Development [BONUS MENTION: WEB3 TECHS]](https://www.youtube.com/watch?v=mKHzfGaFtqc)
 - [Birthday Palindrome in React and JavaScript [USE SAME CODE!]](https://www.youtube.com/watch?v=9H41sZzGHsY)
 - [Investo Stock with React](https://www.youtube.com/watch?v=5uybKJlZBXY)
 - [Fun Triangles with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=1kPWPeNbg-Q)
-- [Supabase Live Learning](https://www.youtube.com/watch?v=zYGL6-QLqKw)
 <!-- YOUTUBE:END -->
 
 ---
