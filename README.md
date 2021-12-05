@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Node.js Package Managers SIZE &amp; SPEED Comparison 2022 &lpar;NO AUDIO&rpar;](https://www.youtube.com/watch?v=fF2XTv7AyQY)
 - [Create a quick Express API Server using Express and Json-Server](https://www.youtube.com/watch?v=hYuou9KBgSg)
 - [Send Emails Using NodeJS and Sendgrid](https://www.youtube.com/watch?v=UHeiOymWEq8)
 - [Complete Linux Setup for Web Development [BONUS MENTION: WEB3 TECHS]](https://www.youtube.com/watch?v=mKHzfGaFtqc)
 - [Birthday Palindrome in React and JavaScript [USE SAME CODE!]](https://www.youtube.com/watch?v=9H41sZzGHsY)
-- [Investo Stock with React](https://www.youtube.com/watch?v=5uybKJlZBXY)
 <!-- YOUTUBE:END -->
 
 ---
