@@ -91,7 +91,7 @@
 - [Techniques of swapping variables in JavaScript](https://ibcoder.hashnode.dev/techniques-of-swapping-variables-in-javascript)
 - [How to handle API calls in NodeJS in a better manner?](https://ibcoder.hashnode.dev/how-to-handle-api-calls-in-nodejs-in-a-better-manner)
 - [Why using sort&lpar;&rpar; won&#39;t work in React useState&lpar;&rpar;?](https://ibcoder.hashnode.dev/why-using-sort-wont-work-in-react-usestate)
-- [Intro to Web Development Series](https://ibcoder.hashnode.dev/intro-to-web-development-series)
+- [What is Object-Oriented Programming and why you should learn it?](https://ibcoder.hashnode.dev/what-is-object-oriented-programming-and-why-you-should-learn-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
