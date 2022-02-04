@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learning Tailwind CSS by building Form](https://www.youtube.com/watch?v=sq6Ax6p19M8)
 - [1. Introduction to New Web 3 NFT Project Series - Hindi](https://www.youtube.com/watch?v=KkVov2gvmDk)
 - [1. Introduction to New Web 3 NFT Project Series](https://www.youtube.com/watch?v=QXGfOtNEA2E)
 - [Simple Magic Link Auth - MongoDB with Mongoose](https://www.youtube.com/watch?v=y17uJvnW7bc)
 - [Simple Magic Link Auth Implementation using Json Server and Real time UNPLANNED Debugging](https://www.youtube.com/watch?v=NnA-hT3z-nw)
-- [Node.js Package Managers SIZE &amp; SPEED Comparison 2022 &lpar;NO AUDIO&rpar;](https://www.youtube.com/watch?v=fF2XTv7AyQY)
 <!-- YOUTUBE:END -->
 
 ---
