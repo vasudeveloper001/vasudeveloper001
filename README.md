@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Part 1 Indian Crypto Tax](https://www.youtube.com/watch?v=BVoZWZqAFyA)
+- [Announcement of NFT PROJECT series](https://www.youtube.com/watch?v=YYRD1FRv6w0)
 - [Learning Tailwind CSS by building Form](https://www.youtube.com/watch?v=sq6Ax6p19M8)
 - [1. Introduction to New Web 3 NFT Project Series - Hindi](https://www.youtube.com/watch?v=KkVov2gvmDk)
 - [1. Introduction to New Web 3 NFT Project Series](https://www.youtube.com/watch?v=QXGfOtNEA2E)
-- [Simple Magic Link Auth - MongoDB with Mongoose](https://www.youtube.com/watch?v=y17uJvnW7bc)
-- [Simple Magic Link Auth Implementation using Json Server and Real time UNPLANNED Debugging](https://www.youtube.com/watch?v=NnA-hT3z-nw)
 <!-- YOUTUBE:END -->
 
 ---
