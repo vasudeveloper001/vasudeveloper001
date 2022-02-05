@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Part 1 Indian Crypto Tax](https://www.youtube.com/watch?v=BVoZWZqAFyA)
-- [Announcement of NFT PROJECT series](https://www.youtube.com/watch?v=YYRD1FRv6w0)
-- [Learning Tailwind CSS by building Form](https://www.youtube.com/watch?v=sq6Ax6p19M8)
-- [1. Introduction to New Web 3 NFT Project Series - Hindi](https://www.youtube.com/watch?v=KkVov2gvmDk)
-- [1. Introduction to New Web 3 NFT Project Series](https://www.youtube.com/watch?v=QXGfOtNEA2E)
+- [Indian Crypto Tax - Part 6 - Brain drain and Web 3](https://www.youtube.com/watch?v=czMCQvgXhm8)
+- [Indian Crypto Tax - Part 5](https://www.youtube.com/watch?v=W19hEeXmzxY)
+- [Indian Crypto Tax - Part 4](https://www.youtube.com/watch?v=H6szjXGUdbA)
+- [Indian Crypto Tax - Part 3](https://www.youtube.com/watch?v=SrCQG7ZgHA4)
+- [Indian Crypto Tax - Part 2](https://www.youtube.com/watch?v=ZvvQWct1uSk)
 <!-- YOUTUBE:END -->
 
 ---
