@@ -75,11 +75,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Channel Update &amp; NFT Series](https://www.youtube.com/watch?v=qltonOQE0UY)
 - [2. Data Modelling - NFT Project Series [HINDI]](https://www.youtube.com/watch?v=86IAUG9M9Vw)
 - [2. Data Modelling - NFT Project Series](https://www.youtube.com/watch?v=LfJsp7mPZT0)
 - [1. Introduction to New Web 3 NFT Project Series](https://www.youtube.com/watch?v=QXGfOtNEA2E)
 - [1. Introduction to New Web 3 NFT Project Series - Hindi](https://www.youtube.com/watch?v=KkVov2gvmDk)
-- [Indian Crypto Tax - Part 6 - Brain drain and Web 3](https://www.youtube.com/watch?v=czMCQvgXhm8)
 <!-- YOUTUBE:END -->
 
 ---
